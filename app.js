@@ -5,3 +5,4 @@ function newFunction() {
 }
 var a=10,b=25;
 console.log(a+b);
+console.log(b-a);
